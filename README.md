@@ -1,16 +1,15 @@
-## Hi there 👋
+### Olá, eu sou o Lucas Santos Nogueira 👋
 
-<!--
-**LucasSantosNogueira/LucasSantosNogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou calouro de **Engenharia Química na Universidade Federal do Rio de Janeiro (EQ/UFRJ)**.
+Meu objetivo é unir os fundamentos da engenharia de processos com ferramentas computacionais modernas.
 
-Here are some ideas to get you started:
+🔭 **No que estou trabalhando:**
+- Fundamentos de Química e Cálculo (1º Período)
+- Projetos práticos de processos (Como a síntese de Poliuretano em IPQB)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Estudando atualmente:**
+- Python para Análise de Dados (Pandas, Matplotlib)
+- Excel Avançado para Engenharia
+
+📫 **Contato:**
+- [LinkedIn](https://www.linkedin.com/in/lucas-santos-nogueira-8404a0379/)
