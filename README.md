@@ -1,15 +1,23 @@
-### Olá, eu sou o Lucas Santos Nogueira 👋
+Olá, eu sou Lucas Santos Nogueira 👋
 
-Sou calouro de **Engenharia Química na Universidade Federal do Rio de Janeiro (EQ/UFRJ)**.
-Meu objetivo é unir os fundamentos da engenharia de processos com ferramentas computacionais modernas.
+Estudante de Engenharia Química na Universidade Federal do Rio de Janeiro (UFRJ), com interesse na aplicação de programação e análise de dados em problemas de engenharia de processos.
 
-🔭 **No que estou trabalhando:**
-- Fundamentos de Química e Cálculo (1º Período)
-- Projetos práticos de processos (Como a síntese de Poliuretano em IPQB)
+Meu foco é integrar fundamentos de engenharia química com ferramentas computacionais para modelagem, análise e otimização de sistemas industriais.
 
-🌱 **Estudando atualmente:**
-- Python para Análise de Dados (Pandas, Matplotlib)
-- Excel Avançado para Engenharia
+🔬 Áreas de interesse
+• Engenharia de processos  
+• Análise de dados aplicada à engenharia  
+• Modelagem e simulação de processos  
+• Automação e ferramentas computacionais
 
-📫 **Contato:**
-- [LinkedIn](https://www.linkedin.com/in/lucas-santos-nogueira-8404a0379/)
+💻 Ferramentas e tecnologias
+Python • SQL • Git • GitHub • Excel Avançado • Estatística Aplicada • Power BI
+
+📊 Neste GitHub você encontrará:
+• Projetos de análise de dados com Python  
+• Estudos aplicados à engenharia química  
+• Scripts de automação e organização de dados  
+• Experimentos e estudos técnicos
+
+📫 Contato
+[LinkedIn](https://www.linkedin.com/in/lucas-santos-nogueira-8404a0379/)
