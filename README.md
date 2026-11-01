@@ -1,23 +1,18 @@
-Olá, eu sou Lucas Santos Nogueira 👋
+# Hi, I'm Lucas Santos Nogueira 👋
 
-Estudante de Engenharia Química na Universidade Federal do Rio de Janeiro (UFRJ), com interesse na aplicação de programação e análise de dados em problemas de engenharia de processos.
+**Chemical Engineering | Data Analytics | Process Optimization**
 
-Meu foco é integrar fundamentos de engenharia química com ferramentas computacionais para modelagem, análise e otimização de sistemas industriais.
+Chemical Engineering student at UFRJ specializing in the intersection of chemical processes, data science, and programming. I build computational tools to simulate, analyze, and optimize industrial systems.
 
-🔬 Áreas de interesse
-• Engenharia de processos  
-• Análise de dados aplicada à engenharia  
-• Modelagem e simulação de processos  
-• Automação e ferramentas computacionais
+### 🔬 Core Focus
+*   **Process Engineering:** Simulation (Aspen Plus/HYSYS), Control Systems, and Carbon Capture (CCS)
+*   **Data Analytics:** Data-driven decision making applied to industrial bottlenecks
+*   **Automation:** Scripting and digital twins for process optimization
 
-💻 Ferramentas e tecnologias
-Python • SQL • Git • GitHub • Excel Avançado • Estatística Aplicada • Power BI
+### 💻 Tech Stack
+*   **Languages:** Python, SQL, C++
+*   **Data & BI:** Power BI, Pandas, Advanced Excel
+*   **Engineering & Version Control:** Git, GitHub, Automation Scripts
 
-📊 Neste GitHub você encontrará:
-• Projetos de análise de dados com Python  
-• Estudos aplicados à engenharia química  
-• Scripts de automação e organização de dados  
-• Experimentos e estudos técnicos
-
-📫 Contato
+📫 **Connect with me:** 
 [LinkedIn](https://www.linkedin.com/in/lucas-santos-nogueira-8404a0379/)
